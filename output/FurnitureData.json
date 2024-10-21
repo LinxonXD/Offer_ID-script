@@ -1,0 +1,35 @@
+{
+    "roomitemtypes": {
+        "furnitype": [
+            {
+                "id": 636491095,
+                "classname": "dino_rose_ltd",
+                "revision": 59005,
+                "category": "unknown",
+                "defaultdir": 0,
+                "xdim": 1,
+                "ydim": 1,
+                "partcolors": {
+                    "color": []
+                },
+                "name": "Pink Dragon Egg",
+                "description": "",
+                "adurl": "",
+                "offerid": 636491095,
+                "buyout": false,
+                "rentofferid": -1,
+                "rentbuyout": false,
+                "bc": false,
+                "excludeddynamic": false,
+                "customparams": "",
+                "specialtype": 0,
+                "canstandon": false,
+                "cansiton": false,
+                "canlayon": false,
+                "furniline": "",
+                "environment": "",
+                "rare": true
+            }
+        ]
+    }
+}
